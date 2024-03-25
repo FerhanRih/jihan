@@ -48,7 +48,7 @@
       </div>
       <section>
       <div class="card" style="width: 18rem;">
-        <img src="img/p23.jpg" class="card-img-top" alt="...hajj">
+        <img src="./p23.jpg" class="card-img-top" alt="...hajj">
         <div class="card-body">
           <p class="card-text">Hulum ngr kezi nw yejemrew August 11,2019 ehen pic wedanchi bemelak</p>
           <p>Ena kzan gze jmro nw bemhalachn yalew yalemegbabat dnber eyeferse ymetaw. Beseatu tlk hazen getmon nbr ngr gen beza west anchin yibelt endekrbsh aregegn beneza abren basalefnachew kenatoch bdnb bemibal mlku awekush.Hulem endemlew behiwotachn ymigtmun eyandandu ngroch ymisetun yehone ngr ale egna aneredam nji.</p>
